@@ -3,10 +3,10 @@
 
 [Dashboard](https://public.tableau.com/app/profile/rakshit.mitra/viz/CanadianDataJobsNavigator/Dashboard1)   
 
-**Project Description**
+**Project Description**                                                           
 This project features a Job Market Dashboard built by scraping data from Workopolis, designed to help international students navigate the Canadian job market, specifically within the Data Industry.
 
-**Project Overview**
+**Project Overview**                                                          
 As an international student, I wanted to create a tool that provides valuable insights into the Data Industry job market in Canada. This dashboard offers real-time job data, trends, and key insights to help users understand market demand and make informed decisions about their careers.
 
 **Key Features**
@@ -21,7 +21,6 @@ As an international student, I wanted to create a tool that provides valuable in
 * Market Insights: Helps users understand the job market beyond just listings.
 
 **Value**    
-
 This dashboard helps users:
 
  * Track job market trends in the Data Industry.
