@@ -1,7 +1,9 @@
 # Canadian Job Market Dashboard
 ![image](https://github.com/user-attachments/assets/449047c7-110d-4e16-baef-95c4228da6c8)
 
-[Dashboard](https://public.tableau.com/app/profile/rakshit.mitra/viz/CanadianDataJobsNavigator/Dashboard1)                                                                                  
+[Dashboard](https://public.tableau.com/app/profile/rakshit.mitra/viz/CanadianDataJobsNavigator/Dashboard1)   
+
+**Project Description**
 This project features a Job Market Dashboard built by scraping data from Workopolis, designed to help international students navigate the Canadian job market, specifically within the Data Industry.
 
 **Project Overview**
