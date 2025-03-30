@@ -34,4 +34,4 @@ This dashboard helps users:
 
 * Data professionals staying up-to-date with industry demands.
 
-*Job seekers looking for a data-driven approach to their career.
+* Job seekers looking for a data-driven approach to their career.
